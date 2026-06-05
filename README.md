@@ -1,15 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+soy+%C3%93scar+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6E96&center=true&vCenter=true&width=600&lines=Hey%2C+soy+%C3%93scar+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+%26+AI+Developer;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oscarr36&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Oscarr36?style=for-the-badge&color=ff6e96" alt="Followers" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-👨‍💻 Estudiante de **Ingeniería Informática** en la Universidad de Zaragoza
-🌐 Técnico en **Desarrollo de Aplicaciones Web** (DAW)
-🖥️ Técnico en **Sistemas Microinformáticos y Redes** (SMR)
-📍 Alcañiz, España
+```txt
+🎓  Ingeniería Informática · Universidad de Zaragoza
+🌐  Técnico DAW + Técnico SMR
+🤖  Apasionado de la IA aplicada a problemas reales
+🏆  3× Hackathon podium (2025–2026)
+📍  Alcañiz, España → Kraków, Polonia (Erasmus 2026/27)
+```
 
 ---
 
@@ -26,9 +36,13 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oscarr_36)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-blasco-armengod)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blascooscar36@gmail.com)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/oscarr_36)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/oscar-blasco-armengod)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:blascooscar36@gmail.com)
+
+</div>
 
 ---
 
@@ -66,36 +80,45 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oscarr36&theme=darkhub&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Oscarr36&theme=radical&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oscarr36&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarr36&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Oscarr36&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Oscarr36&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarr36&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Oscarr36&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Óscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarr36&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Óscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarr36&theme=redical&hide_border=true&area=true&color=FF6E96&line=FF6E96&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 My Contributions
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Oscarr36/Oscarr36/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Oscarr36/Oscarr36/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://github.com/Oscarr36/Oscarr36/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Oscarr36&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <i>💡 "El código es poesía — y los hackathons son el escenario"</i>
+</div>
