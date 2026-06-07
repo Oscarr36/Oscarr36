@@ -76,30 +76,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oscarr36&theme=radical&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oscarr36&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarr36&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Oscarr36&theme=radical&hide_border=true" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -120,5 +96,5 @@
 ---
 
 <div align="center">
-  <i>💡 "El código es poesía — y los hackathons son el escenario"</i>
+  <i>"Un buen desarrollador encuentra soluciones antes de que surjan." — Bill Gates</i>
 </div>
