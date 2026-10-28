@@ -13,7 +13,7 @@
 🌐  Técnico DAW + Técnico SMR
 🤖  Apasionado de la IA aplicada a problemas reales
 🏆  3× Hackathon podium (2025–2026)
-📍  Alcañiz, España → Kraków, Polonia (Erasmus 2026/27)
+📍  Alcañiz, España
 ```
 
 ---
