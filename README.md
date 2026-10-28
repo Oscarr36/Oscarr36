@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6E96&center=true&vCenter=true&width=600&lines=Hey%2C+soy+%C3%93scar+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+%26+AI+Developer;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Oscarr36&style=for-the-badge&color=blueviolet" alt="Profile views" />
