@@ -88,8 +88,4 @@
 </picture>
 </div>
 
----
 
-<div align="center">
-  <i>"Un buen desarrollador encuentra soluciones antes de que surjan." — Bill Gates</i>
-</div>
